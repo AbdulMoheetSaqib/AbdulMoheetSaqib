@@ -1,16 +1,15 @@
-## Hi there 👋
+### Abdul Moheet Saqib
+Biomedical hardware engineer — I take projects from CAD through firmware to a working physical prototype.
 
-<!--
-**AbdulMoheetSaqib/AbdulMoheetSaqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently:** B.S. Biomedical Engineering, UET Lahore (2026) · Building open-source biomedical hardware
 
-Here are some ideas to get you started:
+#### Core work
+- 🧫 **Hydrogel 3D Bioprinter** — open-source, $350 build, 0.1mm resolution — [repo link, coming]
+- 📈 **EGG Acquisition System** — custom gastric bio-signal hardware, N=10 clinical trial — [repo link, coming]
+- ⌚ **Wearable Movement-Disorder Monitor** — Seeed XIAO nRF52840, IMU + BLE pipeline — [repo link, coming]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Background
+Embedded systems (Arduino, ESP32, Seeed XIAO nRF52840) · bio-signal acquisition (EMG, EGG) ·
+biomaterials/bioprinting · medical device design (SolidWorks, Fusion 360)
+
+[LinkedIn](https://linkedin.com/in/abdul-moheet-saqib) · abdulmuheetsaqib@gmail.com
